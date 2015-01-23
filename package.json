@@ -6,5 +6,6 @@
   "author": "James Dearing",
   "license": "CC0 1.0 Universal",
   "version": "0.1",
-  "dependencies": ["menuitems", "addon-sdk"]
+  "dependencies": ["menuitems", "addon-sdk"],
+  "permissions": {"private-browsing": true}
 }
