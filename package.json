@@ -2,10 +2,11 @@
   "name": "edit_tab_titles",
   "title": "Edit Tab Titles",
   "id": "jid1-gOS6PULBnOE99Q",
-  "description": "This simple add-on lets you edit the titles of individual tabs.",
+  "description": "This simple add-on lets you edit the titles of individual tabs. As one opens more and more tabs in Firefox, one finds that a smaller and smaller part of the tab's full title gets displayed. Wouldn't it be nice if you could put useful information in the beginning of the title, where you can see it?",
   "author": "James Dearing",
   "license": "CC0 1.0 Universal",
-  "version": "0.1",
+  "version": "1.0",
   "dependencies": ["menuitems", "addon-sdk"],
-  "permissions": {"private-browsing": true}
+  "permissions": {"private-browsing": true},
+  "homepage": "https://github.com/dearingj/edit-firefox-tab-titles"
 }
