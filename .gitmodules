@@ -1,0 +1,6 @@
+[submodule "packages/menuitems"]
+	path = packages/menuitems
+	url = git@github.com:mykmelez/menuitems-jplib.git
+[submodule "packages/vold-utils"]
+	path = packages/vold-utils
+	url = git@github.com:mykmelez/vold-utils-jplib.git
